@@ -1,10 +1,11 @@
 library(dplyr)
-  whrej 
+library(DBI)
+library(jsonlite)
+library(tidyverse)
+library(shiny)  
+
+Hejsa #Hello world
+
+Test
   
 
-  hjl #hello world
-  
-  
-  TEst
-  
-  library(shiny)
